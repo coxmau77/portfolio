@@ -1,6 +1,6 @@
 <base target="_blank">
 
-# portfolio
+# Portfolio profesional
 
 Mi portfolio de practicas laborales y personales
 
